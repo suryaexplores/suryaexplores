@@ -1,6 +1,8 @@
 # Hey, I'm Surya Phanindra
 
-I am a developer. I like to build software that people can really use. I am very interested in Artificial Intelligence and automation. I also like to work on full-stack development. These days I am learning more about cloud technologies and DevOps and cybersecurity. I think these things are really important for a developer, like me.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png"/>
+</p>
 
 # 勝てば生きる。負ければ死ぬ。戦わなければ勝てない。
 
